@@ -1,0 +1,5 @@
+{
+  "name": "Digital Inteligence",
+  "description": "A comprehensive playground to explore Gemini's capabilities including Chat, Image Generation, and Real-time Voice Interaction using the Live API.",
+  "requestFramePermissions": ["microphone"]
+}
